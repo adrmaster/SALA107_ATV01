@@ -1,7 +1,7 @@
 // definir proxy
 
-git config --global http.proxy http://915204777:2307@186.251.39.91:3128
-git config --global https.proxy https://915204777:2307@186.251.39.91:3128
+git config --global http.proxy http://915204777:230794@186.251.39.91:3128
+git config --global https.proxy https://915204777:230794@186.251.39.91:3128
 
 // verificar proxy
 
